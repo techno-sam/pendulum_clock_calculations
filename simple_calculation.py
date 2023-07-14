@@ -59,7 +59,7 @@ if __name__ == "__main__":
     print("Formulaic period:", calc_period(), "s")
 
     plt.plot(x_pts, y_pts)
-    plt.title("Simple")
+    plt.title("Point Mass")
     plt.xlabel("Time (s)")
     plt.ylabel("Angle")
     #plt.savefig("simple.png")
