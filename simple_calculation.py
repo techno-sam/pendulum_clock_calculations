@@ -62,4 +62,5 @@ if __name__ == "__main__":
     plt.title("Simple")
     plt.xlabel("Time (s)")
     plt.ylabel("Angle")
+    #plt.savefig("simple.png")
     plt.show()
